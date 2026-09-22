@@ -305,9 +305,8 @@ The task view is structured into main topics:
     deconvolution, ...) to explore metabolomics data.
 -   *Identification*: `r pkg("erah")` can be used to identify metabolites by 
     spectral library matching in GC-MS untargeted metabolomics.
--   *Tests and biomarker discovery*: `r pkg("iCARH")` implements a method for 
-    the analysis of time course metabolomic datasets, including biomarker 
-    discovery. `r pkg("MetabolicSurv")` contains biomarker discovery and 
+-   *Tests and biomarker discovery*: 
+    `r pkg("MetabolicSurv")` contains biomarker discovery and 
     survival analysis methods for metabolomics signatures. `r pkg("MetSizeR")` 
     computes sample size for target statistical power in metabolomics 
     experiments.
