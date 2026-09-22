@@ -356,8 +356,7 @@ The task view is structured into main topics:
     analysis to integrate multiple omics datasets. 
     `r pkg("packMBPLSDA")` contains other methods to combine heterogeneous data 
     sets through a covariance based method (based on PLS-DA). 
-    `r pkg("semmcmc")` also provides an omics integration method based on
-    structural equation modelling (SEM), and `r pkg("IMIX")` uses Gaussian
+    `r pkg("IMIX")` uses Gaussian
     mixtures for multi-omics data integration. `r pkg("solvebio")` is a binding 
     for the [SolveBio](https://www.solvebio.com/) API, a biomedical 
     knowledge hub oriented toward omics data integration. \
