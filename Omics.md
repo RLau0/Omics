@@ -267,9 +267,8 @@ The task view is structured into main topics:
     various models to analyze protein-ligand interactions.
 -   *Mass spectrometry proteomics*: `r pkg("wrProteo", priority = "core")` 
     contains a collection of functions for the analysis of mass spectrometry 
-    proteomic data. `r pkg("aLFQ", priority = "core")` implements the most common
-    absolute label-free protein abundance estimation methods for LC-MS/MS and 
-    `r pkg("iq")` also implements protein quantification for mass 
+    proteomic data.  
+    `r pkg("iq")` implements protein quantification for mass 
     spectrometry. `r pkg("protViz")` contains functions to visualize and analyze
     small mass spectrometry proteomic datasets.\
     `r pkg("PTXQC")` is designed to analyze outputs 
